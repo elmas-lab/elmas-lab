@@ -111,9 +111,9 @@ The lab’s work is grounded in rigorous model development and evaluation. We va
 
 ---
 
-## For prospective MS students
+## For prospective students
 
-The Elmas Lab welcomes MS students in:
+The Elmas Lab welcomes prospective MS and PhD students in:
 
 - Electrical and Electronics Engineering
 - Computer Engineering
@@ -123,7 +123,9 @@ The Elmas Lab welcomes MS students in:
 
 Previous training in biology is helpful but not required. Students interested in programming, probability and statistics, signals and systems, machine learning, optimization, image processing, or data-driven biomedical research are particularly encouraged to explore the lab’s work.
 
-A typical MS thesis aims to make a concrete technical contribution, such as:
+### MS research
+
+An MS thesis typically aims to make a focused technical contribution, such as:
 
 - A new algorithm or mathematical model
 - A reproducible software package
@@ -131,6 +133,17 @@ A typical MS thesis aims to make a concrete technical contribution, such as:
 - A curated dataset or analysis pipeline
 - A validated, publishable computational model
 
+### PhD research
+
+PhD students are expected to develop a sustained and increasingly independent research agenda within the lab’s broader themes. A PhD project may combine methodological innovation, rigorous benchmarking, open-source software development, and collaboration with biomedical researchers. The goal is to produce original research publications and a coherent dissertation contribution.
+
+PhD research typically extends beyond a single technical contribution by developing a sustained line of inquiry, for example:
+
+- A new methodological framework supported by theoretical or empirical analysis
+- A sequence of related studies addressing an important biomedical problem
+- Reusable open-source software, benchmarks, or data resources
+- Interdisciplinary work connecting engineering methods with biomedical validation
+- Original publications that collectively form a coherent dissertation
 ---
 
 ## Research principles
@@ -151,3 +164,5 @@ For research, collaboration, or student-supervision inquiries, please contact **
 
 - [Necmettin Erbakan University academic profile](https://erbakan.edu.tr/tr/akademik-personel/7998-abdulkadir-elmas)
 - [Google Scholar](https://scholar.google.com/citations?user=T69aK9cAAAAJ&hl=tr)
+
+Prospective MS and PhD students are encouraged to review the research directions above and contact Dr. Elmas with a concise description of their background, research interests, and relevant coursework, projects, or code repositories.
