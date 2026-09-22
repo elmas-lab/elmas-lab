@@ -14,7 +14,7 @@ The lab is primarily computational. We work with public biomedical datasets, eth
 
 ## Research directions
 
-### Population-aware genomic AI
+### 1. Population-aware genomic AI
 
 Genetic tests often identify variants whose clinical significance is uncertain. We develop statistical and machine-learning approaches to improve genetic-variant interpretation, with particular interest in population-aware models for the Turkish genome.
 
@@ -34,7 +34,7 @@ Genetic tests often identify variants whose clinical significance is uncertain. 
 
 Our objective is not only to classify a variant, but also to identify when the available evidence is inadequate for a reliable decision.
 
-### AI for digital pathology and proteomics
+### 2. AI for digital pathology and proteomics
 
 We study whether routine H&E pathology slides can provide useful clues about molecular states that normally require costly proteomic assays. Using pathology foundation models and machine learning, we investigate the prediction of protein activity, pathway states, and potentially druggable cancer targets from digital tissue images.
 
@@ -54,7 +54,7 @@ We study whether routine H&E pathology slides can provide useful clues about mol
 
 The aim is to create cost-aware tools that prioritize samples for deeper molecular testing—not to suggest that image-based models replace proteomic assays.
 
-### Spatial omics and inverse problems
+### 3. Spatial omics and inverse problems
 
 Spatial transcriptomics measures gene expression at locations across a tissue, but each measurement may contain a mixture of several cell types. We frame recovery of the underlying cellular composition as a signal-processing and constrained-optimization problem.
 
@@ -74,7 +74,7 @@ Spatial transcriptomics measures gene expression at locations across a tissue, b
 
 This direction is particularly suitable for students interested in mathematical modeling, optimization, statistical signal processing, and algorithm development.
 
-### AI for precision oncology
+### 4. AI for precision oncology
 
 We develop computational methods that combine RNA, protein, genomic, and clinical data to discover cancer biomarkers and predict treatment response, including response to cancer immunotherapy.
 
@@ -141,6 +141,7 @@ A typical MS thesis aims to make a concrete technical contribution, such as:
 - **Translation:** Develop tools that address real constraints in biomedical research and clinical practice.
 - **Collaboration:** Connect engineering methods with expertise in medicine, pathology, oncology, genetics, and bioinformatics.
 - **Curiosity:** 🐾🔬 Curiosity does not harm science-minded cats. Ask new questions, test ideas carefully, and let each answer lead to the next question.
+- **Optimism:** 🌱🔬 Persist through the negative results; progress is inevitable.
 
 ---
 
