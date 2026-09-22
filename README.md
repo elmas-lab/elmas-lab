@@ -28,8 +28,8 @@ Genetic tests often identify variants whose clinical significance is uncertain. 
 
 **Related work**
 
-- [Discovering genome-wide tagSNPs](https://doi.org/10.1371/journal.pone.0171838)
-- [Sparse dictionary selection for haplotype inference](https://doi.org/10.1186/1471-2164-14-240)
+- [Discovering genome-wide tagSNPs](https://doi.org/10.1371/journal.pone.0167994)
+- [Sparse dictionary selection for haplotype inference](https://doi.org/10.1186/1471-2164-14-645)
 - [Circulating biomarkers and disease risks](https://doi.org/10.3390/ijms25137376)
 
 Our objective is not only to classify a variant, but also to identify when the available evidence is inadequate for a reliable decision.
