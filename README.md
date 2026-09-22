@@ -69,8 +69,8 @@ Spatial transcriptomics measures gene expression at locations across a tissue, b
 
 **Related work**
 
-- [Sparse dictionary selection for haplotype inference](https://doi.org/10.1186/1471-2164-14-240)
-- [Gene-regulatory-network reconstruction from incomplete measurements](https://doi.org/10.1186/s13637-017-0068-1)
+- [Sparse dictionary selection for haplotype inference](https://doi.org/10.1186/1471-2164-14-645)
+- [Gene-regulatory-network reconstruction from incomplete measurements](https://doi.org/10.1186/s13637-016-0055-8)
 
 This direction is particularly suitable for students interested in mathematical modeling, optimization, statistical signal processing, and algorithm development.
 
@@ -89,9 +89,9 @@ We develop computational methods that combine RNA, protein, genomic, and clinica
 **Related work**
 
 - [OPPTI: Pan-cancer identification of post-transcriptional kinase targets](https://doi.org/10.1038/s42003-021-02636-7)
-- [Multiscale protein networks for identifying oncogenic regulators](https://doi.org/10.1186/s13045-023-01531-9)
-- [Mutation impact on mRNA versus protein expression](https://doi.org/10.1093/gigascience/giae100)
-- [Expression-driven genetic dependencies for precision oncology](https://doi.org/10.1093/gigascience/giae110)
+- [Multiscale protein networks for identifying oncogenic regulators](https://doi.org/10.1186/s13045-023-01517-2)
+- [Mutation impact on mRNA versus protein expression](https://doi.org/10.1093/gigascience/giae113)
+- [Expression-driven genetic dependencies for precision oncology](https://doi.org/10.1093/gigascience/giag011)
 
 ---
 
